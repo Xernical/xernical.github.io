@@ -1,0 +1,46 @@
+.title {
+  text-shadow: 2px 2px 4px #999;
+  text-align: center;
+  margin: auto;
+  font-family: 'Bahiana';
+  font-weight: bold;
+  font-size: 65px;
+}
+.title2 {
+  text-shadow: 2px 2px 4px #999;
+  text-align: center;
+  margin: auto;
+  font-family: 'Bahiana';
+  font-weight: bold;
+  font-size: 110px;
+}
+.buttonindexone {
+  display: inline-block;
+  color: #cc0000;
+  text-align: center;
+  font-size: 100px;
+  padding: 20px;
+  cursor: pointer;
+  position: absolute; 
+  top: 350px; 
+  left: 50%;
+  text-shadow: 2px 2px #000000;
+  margin: 5px;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
+#buttonindextwo {
+  display: inline-block;
+  color: #006699;
+  text-align: center;
+  font-size: 100px;
+  padding: 20px;
+  cursor: pointer;
+  position: absolute; 
+  top: 500px; 
+  left: 50%;
+  text-shadow: 2px 2px #000000;
+  margin: 5px;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
