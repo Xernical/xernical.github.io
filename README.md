@@ -1,3 +1,3 @@
 # xernical.github.io
 
-Cool stuff
+Cool stuff coming soon
